@@ -1,0 +1,13 @@
+{
+  "name": "array-permutation-recursive",
+  "version": "1.0.0",
+  "description": "Get array permutations in lexicographical order with a recursive function",
+  "main": "index.js",
+  "scripts": {
+    "example": "node examples/permutations.mjs",
+    "test": "node test/index.test.js",
+    "watch": "node --watch test/index.test.js"
+  },
+  "author": "felixdrp",
+  "license": "MIT"
+}
